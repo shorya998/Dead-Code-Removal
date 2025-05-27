@@ -3,9 +3,9 @@
 void fun() {
     printf("hello");
 }
-// This is a test file
+
 int main() {
-    int a = 10;     // variable a
+    int a = 10;     
     int b = 20;
     int c = 30;
     int d;
@@ -13,8 +13,6 @@ int main() {
     int hell;
 
     int res;
-    /* This is a
-       multi-line comment */
    
     fun();
 
